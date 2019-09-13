@@ -4,6 +4,5 @@ header
   }
 body
   {
-    background: url(https://github.com/MAMichaud/repository/blob/master/img/background1|alt=background) no-repeat center center;
-    background-size: cover; 
+    background: url("https://raw.githubusercontent.com/{username}/{reponame}/{branch}/path/to/background1.jpg");
   }
