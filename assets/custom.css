@@ -2,3 +2,7 @@ header
   {
     background-image: url("header_background1.jpg");
   }
+body
+  {
+    background-color: red;
+  }
