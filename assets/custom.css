@@ -4,5 +4,6 @@ header
   }
 body
   {
-    background-color: red;
+    background-image: url(background1.jpg)
+    background-position: center
   }
