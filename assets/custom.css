@@ -4,6 +4,6 @@ header
   }
 body
   {
-    background-image: url(background1.jpg)
-    background-position: center
+    background: url(https://github.com/MAMichaud/repository/blob/master/img/background1|alt=background) no-repeat center center;
+    background-size: cover; 
   }
